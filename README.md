@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to my profile!
-  <img src="https://raw.githubusercontent.com/hth125192/hth125192/main/gifs/hello.gif" width="48">
+  <img src="https://raw.githubusercontent.com/long0508yt/long0508yt/main/gifs/hello.gif" width="48">
 </h1>
 
 <p align="center">
